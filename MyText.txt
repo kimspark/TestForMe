@@ -1,0 +1,9 @@
+program File1
+begin
+
+do-hast
+do-hast
+go-go
+baby
+
+end
