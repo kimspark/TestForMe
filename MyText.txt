@@ -1,8 +1,9 @@
 program File1
 begin
+  be run
 
 do-hast
-do-hast
+do-do-hast
 go-go
 baby
 
